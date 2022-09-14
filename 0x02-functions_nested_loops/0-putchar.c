@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - check the code for School students
  * Program that prints _putchar, followed by a new line
