@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- *  main - check the code for School students
- *
- *  Program that prints _putchar, followed by a new line
- *  Return: always 0 (success)
+ * main - check the code for School students
+ * Program that prints _putchar, followed by a new line
+ * Return: always 0 (success)
  */
 
 int main(void)
