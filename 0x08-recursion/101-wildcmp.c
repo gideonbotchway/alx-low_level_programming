@@ -64,6 +64,7 @@ return (!!sum);
 }
 return (0);
 }
+
 /**
  * bandersnatch - checks recursively for all the paths when the
  * characters are equal
