@@ -37,6 +37,7 @@ if (*s1 == '\0')
 return (1);
 return (wildcmp(s1 + 1, s2 + 1));
 }
+
 /**
  * if we reached the end of both strings,
  * return 0
