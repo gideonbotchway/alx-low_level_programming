@@ -27,5 +27,6 @@ if (*s == *(ops[i].op) && s[1] == '\0')
 return (ops[i].f);
 i++;
 }
+printf("Error\n");
 exit(99);
 }
